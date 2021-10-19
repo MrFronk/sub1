@@ -44,4 +44,4 @@ poetry lock
 
 # manually add an entrypoint to pyproject.toml
 [tool.poetry.scripts]
-sub1 = 'sub1_pandas:print_pandas'
+sub1 = 'sub1.sub1_pandas:print_pandas'

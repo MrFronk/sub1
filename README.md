@@ -5,7 +5,7 @@ poetry init
 <in the prompt:>
 package name: sub1
 version 0.1.0
-description: Example project with a fixed dependancy on pandas pre-1.0.0
+description: Example project with a fixed dependency on pandas pre-1.0.0
 author: <skip>
 licence: na
 compatible python versions: 3.7.4

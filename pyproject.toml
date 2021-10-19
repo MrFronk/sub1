@@ -16,4 +16,4 @@ requires = ["poetry-core>=1.0.0"]
 build-backend = "poetry.core.masonry.api"
 
 [tool.poetry.scripts]
-sub1 = 'sub1_pandas:print_pandas'
+sub1 = 'sub1.sub1_pandas:print_pandas'
